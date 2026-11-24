@@ -14,6 +14,6 @@ I used the Pima Indians Diabetes dataset (768 patients, 8 measurements like gluc
 - Built the app with Streamlit.
 
 ## Notes
-The dataset is small, so the accuracy isn't very high. This is a learning project, not for medical use.
+This is a learning project, not for medical use.
 
 Built with Python, pandas, scikit-learn and Streamlit.
