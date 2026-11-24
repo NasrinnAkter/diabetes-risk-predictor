@@ -3,7 +3,6 @@
 A machine learning project that predicts diabetes risk from health measurements, with a web app to try it.
 
 Live demo: https://diabetes-risk-predictor-nasrin.streamlit.app/
-(If it's asleep, click the wake-up button and wait a minute.)
 
 ## About
 I used the Pima Indians Diabetes dataset (768 patients, 8 measurements like glucose, BMI and age). I cleaned the data, compared three models, and deployed the best one with Streamlit.
